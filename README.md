@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Alejandro, a systems engineer based in Colombia.
+
+I enjoy designing and building backend systems.
+
+My main tech stack is Java with the Spring framework and PostgreSQL, though I'm currently learning Go.
 <!--
 **Alejo-Rodri/Alejo-Rodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
